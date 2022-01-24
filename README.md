@@ -1,4 +1,4 @@
-The following an object-oriented program to implement the Game of Life,
+lThe following an object-oriented program to implement the Game of Life,
 as defined by John Conway. The rules are thus:
 
 1. Any living cell with fewer than two live neighbors (simulates 
