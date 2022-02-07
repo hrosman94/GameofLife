@@ -1,7 +1,7 @@
 The following an object-oriented program to implement the Game of Life,
 as defined by John Conway. The rules are thus:
 
-1. Any living cell with fewer than two live neighbors (simulates 
+1. Any living cell with fewer than two live neighbors dies (simulates 
 depopulation) 
 2. Any living cell with two or three neighbors lives into the next 
 generation
